@@ -1,4 +1,4 @@
-(ns adventofcode.core
+(ns adventofcode.day1
   (:require [clojure.string :as string]))
 
 (defn get-fuel-qty
